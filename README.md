@@ -20,5 +20,6 @@ In this repository, i've include the following code:
 
 * `ESP32_ELRS_Library_Read`  - This code contain the `ELRS_CRSF.h` library and `main code` to print all the channels and how to use this library
 * `ESP32_ELRS_Library_Static_Display_Read` - This code contain the `ELRS_CRSF.h` library and `main code` which is customize based on `flight controller code`. The code will print a `static display` that show all the information
+* `ESP32_ELRS_Combine_Read` - This code contain whole combination of library calling and main code altogether. It's no modularize code.
 
 
